@@ -1,0 +1,8 @@
+data:
+  raw: data/raw/US_Sales_Datasets.csv
+  processed: data/processed/processed_sales.csv
+train:
+  test_size: 0.2
+  random_state: 42
+  n_estimators: 200
+  max_depth: 8

@@ -1,0 +1,5 @@
+outs:
+- md5: 40880b330dac0e9f450d9cdd023341fc
+  size: 1098670
+  hash: md5
+  path: US_Sales_Datasets.csv

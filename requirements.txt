@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+mlflow
+dvc
+prefect
+fastapi
+uvicorn
+evidently
+joblib
