@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/models/m-631368c73886479095a994ee042ba2c4/artifacts
+creation_timestamp: 1764401140073
+experiment_id: '826876361607823140'
+last_updated_timestamp: 1764401142264
+model_id: m-631368c73886479095a994ee042ba2c4
+model_type: null
+name: model
+source_run_id: 90ee696b72a14daa8a9177656fce7a29
+status: 2
+status_message: null

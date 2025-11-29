@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/dd3fd5bda2ab49d48d97edbc73c65065/artifacts
+end_time: 1764401186184
+entry_point_name: ''
+experiment_id: '826876361607823140'
+lifecycle_stage: active
+run_id: dd3fd5bda2ab49d48d97edbc73c65065
+run_name: resilient-ant-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764401183294
+status: 3
+tags: []
+user_id: ashutosh.somkuwar

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/90ee696b72a14daa8a9177656fce7a29/artifacts
+end_time: 1764401142266
+entry_point_name: ''
+experiment_id: '826876361607823140'
+lifecycle_stage: active
+run_id: 90ee696b72a14daa8a9177656fce7a29
+run_name: respected-colt-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764401139351
+status: 4
+tags: []
+user_id: ashutosh.somkuwar

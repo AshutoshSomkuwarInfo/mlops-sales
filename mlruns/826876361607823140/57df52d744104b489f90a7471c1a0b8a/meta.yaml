@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/57df52d744104b489f90a7471c1a0b8a/artifacts
+end_time: 1764400972711
+entry_point_name: ''
+experiment_id: '826876361607823140'
+lifecycle_stage: active
+run_id: 57df52d744104b489f90a7471c1a0b8a
+run_name: gentle-trout-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764400971998
+status: 4
+tags: []
+user_id: ashutosh.somkuwar

@@ -1,0 +1,22 @@
+artifact_path: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/models/m-69b3527a076a4b18b866908965ad9864/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-69b3527a076a4b18b866908965ad9864
+model_size_bytes: 405506
+model_uuid: m-69b3527a076a4b18b866908965ad9864
+prompts: null
+run_id: 11fb8b26b70a4c24a1799c1321e9f0e7
+utc_time_created: '2025-11-29 07:33:47.684498'

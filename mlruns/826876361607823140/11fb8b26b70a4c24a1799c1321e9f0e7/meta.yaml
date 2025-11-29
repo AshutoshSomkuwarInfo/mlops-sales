@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/11fb8b26b70a4c24a1799c1321e9f0e7/artifacts
+end_time: 1764401629943
+entry_point_name: ''
+experiment_id: '826876361607823140'
+lifecycle_stage: active
+run_id: 11fb8b26b70a4c24a1799c1321e9f0e7
+run_name: vaunted-koi-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764401626959
+status: 3
+tags: []
+user_id: ashutosh.somkuwar

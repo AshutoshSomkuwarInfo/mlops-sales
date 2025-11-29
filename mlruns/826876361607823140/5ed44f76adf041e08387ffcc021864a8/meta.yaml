@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ashutosh.somkuwar/Documents/Intelipath/mlops-sales/mlruns/826876361607823140/5ed44f76adf041e08387ffcc021864a8/artifacts
+end_time: 1764401293048
+entry_point_name: ''
+experiment_id: '826876361607823140'
+lifecycle_stage: active
+run_id: 5ed44f76adf041e08387ffcc021864a8
+run_name: lyrical-zebra-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764401290058
+status: 3
+tags: []
+user_id: ashutosh.somkuwar
