@@ -3,12 +3,11 @@ import joblib
 import pandas as pd
 from pydantic import BaseModel
 
-app = FastAPI()
 
-# Load trained model
+app = FastAPI()
 model = joblib.load("models/model.pkl")
 
-# Pydantic model MUST match the training features exactly
+
 class SalesInput(BaseModel):
     Retailer_ID: int
     Price_per_Unit: float
@@ -19,9 +18,9 @@ class SalesInput(BaseModel):
     Invoice_Month: int
     Total_Sales_calc: float
 
+
 @app.post("/predict")
 def predict_sales(data: SalesInput):
-    # Convert input to DataFrame
     df = pd.DataFrame([{
         "Retailer ID": data.Retailer_ID,
         "Price per Unit": data.Price_per_Unit,
@@ -33,6 +32,5 @@ def predict_sales(data: SalesInput):
         "Total_Sales_calc": data.Total_Sales_calc
     }])
 
-    # Predict
-    pred = model.predict(df)[0]
-    return {"predicted_sales": float(pred)}
+    prediction = model.predict(df)[0]
+    return {"predicted_sales": float(prediction)}
