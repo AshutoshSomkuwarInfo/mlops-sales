@@ -298,5 +298,3 @@ python src/monitoring/evidently_report.py
 - Evidently provides monitoring
 
 ---
-
-## ✔ Project Completed — 100/100 Marks Ready
